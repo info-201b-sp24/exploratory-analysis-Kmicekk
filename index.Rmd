@@ -67,7 +67,7 @@ health professionals in creating interventions that help users maintain
 healthy relationships with digital platforms.
 
 Does the nature of content consumed (positive vs. negative news) on
-social media affect the user’s mood and mental health status? This
+social media affect the user's mood and mental health status? This
 question is important since it's one of the direct contents that can
 affect the mental health directly, and exposure to different types of
 content could have varying impacts on mood, which in turn affects
@@ -86,7 +86,7 @@ features that may negatively affect mental health.
 Twenge, J. M., Joiner, T. E., Rogers, M. L., & Martin, G. N. (2018).
 Increases in depressive symptoms, suicide-related outcomes, and suicide
 rates among U.S. adolescents after 2010 and links to increased new media
-screen time. Journal of Abnormal Psychology, 127(1), 6–17.
+screen time. Journal of Abnormal Psychology, 127(1), 6--17.
 
 This study provides evidence linking increased screen time with rising
 rates of depression and suicide-related outcomes among adolescents. It
@@ -128,7 +128,7 @@ Health Sciences. This data was collected through online surveys
 performed by the Kisii University College Faculty of Health Sciences
 throughout the campus. This survey was done to determine participant
 behaviors on the subjects of mental health and how much they use social
-media as well as a score of social media’s impact on mental health.
+media as well as a score of social media's impact on mental health.
 There are 300 observations (rows) in the data. There are six features
 (columns) in the data corresponding to the number of respondents, age,
 gender, frequency of social media interaction, self-reported mental
@@ -194,13 +194,22 @@ Describe why you included the table and what information it reveals
 
 ### Chart 1
 
-Include a chart
+![](Chart1.png)
 
-Describe why you chose this chart and what information it reveals
+We chose this chart to visualize the distribution of self-reported
+mental health status for several reasons. Firstly, given that the
+self-reported mental health status variable is categorical, a bar plot
+provides an intuitive representation of the frequency of respondents
+within each mental health status category. The distinct bars allow for
+easy comparison across categories, enabling viewers to quickly discern
+differences in frequency and identify any notable patterns or
+discrepancies.
 
 Here's an example of how to run an R script inside an RMarkdown file:
 
 \`\`\``{r, echo = FALSE, code = readLines("chart1_example.R")}`
+
+\`\`\``{r, echo = FALSE, code = readLines("chart1.R")}`
 
 ### Chart 2
 
