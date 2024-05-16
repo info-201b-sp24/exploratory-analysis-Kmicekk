@@ -3,7 +3,7 @@
 library(tidyverse)
 library(ggplot2)
 
-df <- read_csv("info201/exploratory-analysis-Kmicekk/Digital Behavior and Mental Health Survey 2022.csv")
+df <- read_csv("Digital Behavior and Mental Health Survey 2022.csv")
 
 ggplot(df, aes(x = `Self-reported Mental Health Status`, fill = `Self-reported Mental Health Status`)) +
   geom_bar(color = "black") +
