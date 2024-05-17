@@ -198,9 +198,7 @@ their mental well-being.
 
 ### Table
 
-Include a table of aggregate information
-
-Describe why you included the table and what information it reveals
+![](table.png)
 
 ### Chart 1
 
