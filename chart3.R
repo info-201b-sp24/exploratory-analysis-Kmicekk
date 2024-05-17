@@ -1,15 +1,18 @@
+# Violin Plot of Age by Frequency of Social Media Interaction
 library(ggplot2)
 library(tidyverse)
 
-mental_health_data <- read.csv("Digital Behavior and Mental Health Survey 2022.csv")
+# Read the dataset
+df <- read_csv("Digital Behavior and Mental Health Survey 2022.csv")
 
-ggplot(mental_health_data, aes(x = Age, y = Impact.on.Mental.Health..Score., color = Gender)) +
-  geom_point() +
-  scale_color_manual(values = c("Female" = "red", "Male" = "blue")) +
-  labs(title = "Age vs Impact on Mental Health Score",
-       x = "Age",
-       y = "Mental Health Score",
-       color = "Gender") +
+# Generate the violin plot
+ggplot(df, aes(x = `Frequency of Social Media Interaction`, y = Age, fill = `Frequency of Social Media Interaction`)) +
+  geom_violin(trim = FALSE) +
+  labs(title = "Age Distribution by Frequency of Social Media Interaction",
+       x = "Frequency of Social Media Interaction",
+       y = "Age") +
   theme_minimal() +
-  geom_smooth(method = "lm", se = FALSE)
+  scale_fill_brewer(palette = "Pastel1") +
+  theme(legend.position = "none")
+
 

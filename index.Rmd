@@ -225,63 +225,22 @@ We chose this chart to visualize the correlation between age and the impact on m
 
 ![](Chart3.png)
 
-<<<<<<< HEAD
-We chose this stacked bar chart to illustrate the frequency of social
-media interaction across different genders for several reasons. Firstly,
-the stacked bar chart allows for a clear comparison of social media
-usage patterns between male and female respondents. The use of
-color-coded segments within each bar enables viewers to easily
-distinguish between different levels of interaction frequency,
-facilitating a straightforward interpretation of the data.
+We chose this violin plot to visualize the distribution and density of ages for each frequency of social media interaction category. Given the continuous nature of the age variable and the categorical nature of the interaction frequency, a violin plot effectively displays the spread, central tendency, and density of ages within each category.
 
-Purpose: This chart aims to examine the frequency of social media
-interaction among different genders, providing insights into how often
-male and female respondents engage with social media.
+**Purpose**: This chart aims to show the distribution and density of ages for each frequency of social media interaction category, highlighting how age varies with social media usage patterns.
 
-Insights: The chart reveals notable patterns in social media usage
-across genders. For instance, it may show that one gender interacts more
-frequently with social media than the other, or that certain interaction
-frequencies are more prevalent among one gender compared to the other.
-By presenting the data in a proportional format, the chart highlights
-relative differences and similarities in social media behavior, offering
-a comprehensive view of gender-specific trends.
+**Insights**: The violin plot reveals the age distribution within each interaction frequency category. It helps identify which age groups are more likely to engage with social media frequently or infrequently. For instance, it may show that younger age groups are more prevalent in higher frequency interaction categories, while older age groups might dominate the lower frequency categories. The density plots within each violin highlight the concentration of respondents' ages, providing a detailed view of age-related social media behavior.
 
-Chart Evaluation: Unique visualization type: The stacked bar chart
-provides a unique way to compare multiple categories within a single
-visualization, distinct from the other charts used. Includes purpose:
-The purpose of the chart is clearly stated, focusing on gender
-differences in social media interaction frequency. Includes insights:
-The insights section discusses the information revealed by the chart,
-such as gender-specific trends in social media usage. Visualization type
-makes sense for data: The stacked bar chart is appropriate for comparing
-categorical data across groups, making it ideal for this analysis.
-Optimal and interpretable graphical encodings: The use of different
-colors for each interaction frequency and the proportional bars ensure
-the data is presented in an interpretable manner. Human-readable axis
-labels: The x-axis (Gender) and y-axis (Proportion) labels are clear and
-understandable. Includes a title: The chart has a descriptive title,
-"Frequency of Social Media Interaction by Gender." Easily-readable,
-visually-appealing legend: The legend is clear, positioned well, and
-uses a visually appealing color scheme to differentiate interaction
-frequencies. By meeting these criteria, the chart effectively
-communicates the patterns and insights related to social media
-interaction frequency among different genders.
-=======
-We chose this stacked bar chart to illustrate the frequency of social media 
-interaction across different genders for several reasons. Firstly, the 
-stacked bar chart allows for a clear comparison of social media usage patterns 
-between male and female respondents. The use of color-coded segments within each
-bar enables viewers to easily distinguish between different levels of interaction 
-frequency, facilitating a straightforward interpretation of the data.
+### Chart Evaluation:
 
-Purpose: This chart aims to examine the frequency of social media interaction among 
-different genders, providing insights into how often male and female respondents engage 
-with social media.
+- **Unique visualization type**: The violin plot provides a distinct method for comparing distributions across categories, different from scatter plots, bar charts, and box plots.
+- **Includes purpose**: The purpose of the chart is clearly stated, focusing on the age distribution across social media interaction frequency categories.
+- **Includes insights**: The insights section discusses the information revealed by the chart, such as variability and density of ages.
+- **Visualization type makes sense for data**: The violin plot is appropriate for comparing distributions of continuous data across categorical groups.
+- **Optimal and interpretable graphical encodings**: The use of violin plots effectively displays the spread, median, and density within each category.
+- **Human-readable axis labels**: The x-axis (Frequency of Social Media Interaction) and y-axis (Age) labels are clear and understandable.
+- **Includes a title**: The chart has a descriptive title, "Age Distribution by Frequency of Social Media Interaction."
+- **Easily-readable, visually-appealing legend**: The chart does not require a legend for the violin plots as the fill colors are self-explanatory.
 
-Insights: The chart reveals notable patterns in social media usage across genders. 
-For instance, it may show that one gender interacts more frequently with social media 
-than the other, or that certain interaction frequencies are more prevalent among one 
-gender compared to the other. By presenting the data in a proportional format, 
-the chart highlights relative differences and similarities in social media behavior, 
-offering a comprehensive view of gender-specific trends.
->>>>>>> 16f4036ce28b7f20d8399a2a1c4d2aa08b1c4425
+By meeting these criteria, the chart effectively communicates the age distribution across different frequencies of social media interaction.
+
