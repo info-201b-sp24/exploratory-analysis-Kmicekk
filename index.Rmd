@@ -239,14 +239,11 @@ We chose this violin plot to visualize the distribution and density of
 ages for each frequency of social media interaction category. Given the
 continuous nature of the age variable and the categorical nature of the
 interaction frequency, a violin plot effectively displays the spread,
-central tendency, and density of ages within each category.
-
-**Purpose**: This chart aims to show the distribution and density of
+central tendency, and density of ages within each category. This chart aims to
+show the distribution and density of
 ages for each frequency of social media interaction category,
-highlighting how age varies with social media usage patterns.
-
-**Insights**: The violin plot reveals the age distribution within each
-interaction frequency category. It helps identify which age groups are
+highlighting how age varies with social media usage patterns. It helps identify 
+which age groups are
 more likely to engage with social media frequently or infrequently. For
 instance, it may show that younger age groups are more prevalent in
 higher frequency interaction categories, while older age groups might
