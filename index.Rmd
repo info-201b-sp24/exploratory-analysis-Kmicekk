@@ -225,6 +225,7 @@ Describe why you chose this chart and what information it reveals
 
 ![](Chart3.png)
 
+<<<<<<< HEAD
 We chose this stacked bar chart to illustrate the frequency of social
 media interaction across different genders for several reasons. Firstly,
 the stacked bar chart allows for a clear comparison of social media
@@ -265,3 +266,22 @@ uses a visually appealing color scheme to differentiate interaction
 frequencies. By meeting these criteria, the chart effectively
 communicates the patterns and insights related to social media
 interaction frequency among different genders.
+=======
+We chose this stacked bar chart to illustrate the frequency of social media 
+interaction across different genders for several reasons. Firstly, the 
+stacked bar chart allows for a clear comparison of social media usage patterns 
+between male and female respondents. The use of color-coded segments within each
+bar enables viewers to easily distinguish between different levels of interaction 
+frequency, facilitating a straightforward interpretation of the data.
+
+Purpose: This chart aims to examine the frequency of social media interaction among 
+different genders, providing insights into how often male and female respondents engage 
+with social media.
+
+Insights: The chart reveals notable patterns in social media usage across genders. 
+For instance, it may show that one gender interacts more frequently with social media 
+than the other, or that certain interaction frequencies are more prevalent among one 
+gender compared to the other. By presenting the data in a proportional format, 
+the chart highlights relative differences and similarities in social media behavior, 
+offering a comprehensive view of gender-specific trends.
+>>>>>>> 16f4036ce28b7f20d8399a2a1c4d2aa08b1c4425
