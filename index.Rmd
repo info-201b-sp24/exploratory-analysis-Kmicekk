@@ -199,6 +199,7 @@ their mental well-being.
 ### Table
 
 ![](table.png)
+
 We included this table since it's the easiest way to understand the data, 
 and by grabbing the average age, mental health score, and the impact it had on 
 them, we were easily able to understand what age range was the most vulnerable, 
