@@ -183,8 +183,16 @@ the results and introducing unknown bias's.
 
 ### Summary Information
 
-Write a summary paragraph of findings that includes the 5 values
-calculated from your summary information R script
+The analysis of the "Digital Behavior and Mental Health Survey 2022" dataset, 
+which includes responses from 300 individuals, reveals several key insights into 
+the relationship between social media interaction and mental health. The average 
+age of the respondents is approximately 34.20 years. Gender distribution shows a 
+nearly balanced sample, with 157 female and 143 male participants. The most common 
+frequency of social media interaction reported by the respondents is "Frequently."
+Regarding the impact on mental health, the average score is 3.62, suggesting a 
+moderate overall impact on mental health as perceived by the respondents. These 
+findings provide a foundation for understanding how different demographic groups 
+engage with social media and how it affects their mental well-being.
 
 ### Table
 
