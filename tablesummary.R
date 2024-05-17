@@ -10,3 +10,4 @@ table1$Self.reported.Mental.Health.Status
 table(table1$Frequency.of.Social.Media.Interaction, table1$Self.reported.Mental.Health.Status)
 
 
+
