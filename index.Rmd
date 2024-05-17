@@ -221,6 +221,21 @@ Describe why you chose this chart and what information it reveals
 
 ### Chart 3
 
-Include a chart
+![](Chart3.png)
 
-Describe why you chose this chart and what information it reveals
+We chose this stacked bar chart to illustrate the frequency of social media interaction across different genders for several reasons. Firstly, the stacked bar chart allows for a clear comparison of social media usage patterns between male and female respondents. The use of color-coded segments within each bar enables viewers to easily distinguish between different levels of interaction frequency, facilitating a straightforward interpretation of the data.
+
+Purpose: This chart aims to examine the frequency of social media interaction among different genders, providing insights into how often male and female respondents engage with social media.
+
+Insights: The chart reveals notable patterns in social media usage across genders. For instance, it may show that one gender interacts more frequently with social media than the other, or that certain interaction frequencies are more prevalent among one gender compared to the other. By presenting the data in a proportional format, the chart highlights relative differences and similarities in social media behavior, offering a comprehensive view of gender-specific trends.
+
+Chart Evaluation:
+Unique visualization type: The stacked bar chart provides a unique way to compare multiple categories within a single visualization, distinct from the other charts used.
+Includes purpose: The purpose of the chart is clearly stated, focusing on gender differences in social media interaction frequency.
+Includes insights: The insights section discusses the information revealed by the chart, such as gender-specific trends in social media usage.
+Visualization type makes sense for data: The stacked bar chart is appropriate for comparing categorical data across groups, making it ideal for this analysis.
+Optimal and interpretable graphical encodings: The use of different colors for each interaction frequency and the proportional bars ensure the data is presented in an interpretable manner.
+Human-readable axis labels: The x-axis (Gender) and y-axis (Proportion) labels are clear and understandable.
+Includes a title: The chart has a descriptive title, "Frequency of Social Media Interaction by Gender."
+Easily-readable, visually-appealing legend: The legend is clear, positioned well, and uses a visually appealing color scheme to differentiate interaction frequencies.
+By meeting these criteria, the chart effectively communicates the patterns and insights related to social media interaction frequency among different genders.
