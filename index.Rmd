@@ -219,28 +219,39 @@ discrepancies.
 
 ![](Chart2.png)
 
-We chose this chart to visualize the correlation between age and the impact on mental health score. It also presents the differences in correlation between the two genders presented in the data. This visualization aids us in seeing if age or gender are determining factors on the affects of social media on mental health. Each dot represents a certain age and mental health score of either a male or female, determined by a blue or red color, with age on the x-axis and mental health score on the y-axis. The red line represents the linear regression line of the correlation between age and mental health score for females while the blue line represents the same correlation but for males.
+We chose this chart to visualize the correlation between age and the
+impact on mental health score. It also presents the differences in
+correlation between the two genders presented in the data. This
+visualization aids us in seeing if age or gender are determining factors
+on the affects of social media on mental health. Each dot represents a
+certain age and mental health score of either a male or female,
+determined by a blue or red color, with age on the x-axis and mental
+health score on the y-axis. The red line represents the linear
+regression line of the correlation between age and mental health score
+for females while the blue line represents the same correlation but for
+males.
 
 ### Chart 3
 
 ![](Chart3.png)
 
-We chose this violin plot to visualize the distribution and density of ages for each frequency of social media interaction category. Given the continuous nature of the age variable and the categorical nature of the interaction frequency, a violin plot effectively displays the spread, central tendency, and density of ages within each category.
+We chose this violin plot to visualize the distribution and density of
+ages for each frequency of social media interaction category. Given the
+continuous nature of the age variable and the categorical nature of the
+interaction frequency, a violin plot effectively displays the spread,
+central tendency, and density of ages within each category.
 
-**Purpose**: This chart aims to show the distribution and density of ages for each frequency of social media interaction category, highlighting how age varies with social media usage patterns.
+**Purpose**: This chart aims to show the distribution and density of
+ages for each frequency of social media interaction category,
+highlighting how age varies with social media usage patterns.
 
-**Insights**: The violin plot reveals the age distribution within each interaction frequency category. It helps identify which age groups are more likely to engage with social media frequently or infrequently. For instance, it may show that younger age groups are more prevalent in higher frequency interaction categories, while older age groups might dominate the lower frequency categories. The density plots within each violin highlight the concentration of respondents' ages, providing a detailed view of age-related social media behavior.
+**Insights**: The violin plot reveals the age distribution within each
+interaction frequency category. It helps identify which age groups are
+more likely to engage with social media frequently or infrequently. For
+instance, it may show that younger age groups are more prevalent in
+higher frequency interaction categories, while older age groups might
+dominate the lower frequency categories. The density plots within each
+violin highlight the concentration of respondents' ages, providing a
+detailed view of age-related social media behavior.
 
-### Chart Evaluation:
-
-- **Unique visualization type**: The violin plot provides a distinct method for comparing distributions across categories, different from scatter plots, bar charts, and box plots.
-- **Includes purpose**: The purpose of the chart is clearly stated, focusing on the age distribution across social media interaction frequency categories.
-- **Includes insights**: The insights section discusses the information revealed by the chart, such as variability and density of ages.
-- **Visualization type makes sense for data**: The violin plot is appropriate for comparing distributions of continuous data across categorical groups.
-- **Optimal and interpretable graphical encodings**: The use of violin plots effectively displays the spread, median, and density within each category.
-- **Human-readable axis labels**: The x-axis (Frequency of Social Media Interaction) and y-axis (Age) labels are clear and understandable.
-- **Includes a title**: The chart has a descriptive title, "Age Distribution by Frequency of Social Media Interaction."
-- **Easily-readable, visually-appealing legend**: The chart does not require a legend for the violin plots as the fill colors are self-explanatory.
-
-By meeting these criteria, the chart effectively communicates the age distribution across different frequencies of social media interaction.
-
+### 
